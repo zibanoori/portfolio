@@ -30,3 +30,11 @@ a {
     color: inherit;
     transition: 0.3s;
 }
+.site-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 5px;
+    background-color: var(--color-white);
+    border-bottom: 1px solid #f4e9e9;
+}
