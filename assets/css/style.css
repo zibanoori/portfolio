@@ -59,3 +59,8 @@ a {
     flex-direction: row;
     gap: 35px;
 }
+.navbar a{
+    font-size: var(--nav-size);
+    color: var(--color-secondary);
+    position: relative;
+}
