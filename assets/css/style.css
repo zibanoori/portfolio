@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root {
+    --color-primary: #212433;
+    --color-secondary: #4e4d4d;
+    --color-muted: #838282;
+    --color-border: #c5c1c1;
+    --color-bg-light: #f0ebeb;
+    --color-footer-bg: #f8f2f2;
+    --color-white: #ffffff;
+    --font-body:"lato",sans-serif;
+    --logo-size: 2.8rem;
+    --title-size: 2rem;
+    --body-text-size: 1rem;
+    --heading-size: 2rem;
+    --body-text-size: 1rem;
+    --nav-size: 0.9rem;   
+}
