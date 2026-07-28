@@ -89,7 +89,7 @@ a {
   color: var(--color-muted);
 }
 .social a:hover i {
-    color: rgb(57, 56, 56);
+    color: rgb(80, 74, 74);
     transform: translateY(-2px);
     transition: 0.3s;
 }
@@ -99,4 +99,12 @@ a {
   display: flex;
   align-items: center;
   background: linear-gradient(to bottom, var(--color-white) 0%, var(--color-bg-light) 100%);
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    width: 100%;
 }
