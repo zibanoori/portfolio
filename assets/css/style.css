@@ -93,3 +93,10 @@ a {
     transform: translateY(-2px);
     transition: 0.3s;
 }
+.main-section {
+  padding: 80px 5%;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to bottom, var(--color-white) 0%, var(--color-bg-light) 100%);
+}
