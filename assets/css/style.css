@@ -80,3 +80,11 @@ a {
 .navbar a:hover::after {
     width: 100%;
 }
+.social {
+    display: flex;
+    gap: 30px;
+}
+.social i {
+  font-size: 1.1rem;
+  color: var(--color-muted);
+}
