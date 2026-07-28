@@ -88,3 +88,8 @@ a {
   font-size: 1.1rem;
   color: var(--color-muted);
 }
+.social a:hover i {
+    color: rgb(57, 56, 56);
+    transform: translateY(-2px);
+    transition: 0.3s;
+}
