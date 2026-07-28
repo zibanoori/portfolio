@@ -128,4 +128,20 @@ img {
 .text-box {
   flex: 1;
 }
+.title {
+  font-family: var(--font-script);
+  font-size: 2rem;
+  color: var(--color-primary);
+  font-weight: bold;
+  line-height: 1.1;
+  margin-bottom: 40px;
+}
+
+.subtitle {
+  font-size: var(--body-text-size);
+  color: var(--color-muted);
+  letter-spacing: 1.5px;
+  margin-bottom: 50px;
+}
+
 
