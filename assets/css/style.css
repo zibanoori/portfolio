@@ -150,5 +150,10 @@ img {
     margin-bottom: 22px;
     font-family: var(--font-script);
 }
-
+.content-block p {
+    font-size: var(--body-text-size);
+    color: var(--color-primary);
+    font-weight: 400;
+    margin-bottom: 22px;
+}
 
