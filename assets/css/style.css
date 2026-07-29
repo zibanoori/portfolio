@@ -205,3 +205,9 @@ img {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+.footer-links ul {
+    list-style: none;
+}
+.footer-links li {
+  margin-bottom: 10px;
+}
