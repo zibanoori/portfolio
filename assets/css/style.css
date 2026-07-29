@@ -164,4 +164,10 @@ img {
     font-size: 0.85rem;
     letter-spacing: 1px;
     text-transform: uppercase;
+    border-radius: 10px;
+}
+.btn-primary:hover {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    border-color: var(--color-primary);
 }
