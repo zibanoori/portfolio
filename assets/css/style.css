@@ -209,5 +209,10 @@ img {
     list-style: none;
 }
 .footer-links li {
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
+.footer-links a {
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
