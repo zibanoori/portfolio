@@ -171,3 +171,8 @@ img {
     color: var(--color-white);
     border-color: var(--color-primary);
 }
+.site-footer {
+    background-color: var(--color-footer-bg);
+    padding: 60px 5% 22px;
+    margin-top: auto;
+}
