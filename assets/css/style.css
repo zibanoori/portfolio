@@ -191,3 +191,17 @@ img {
     display: block;
     margin-bottom: 15px;
 }
+.footer-brand p {
+    color: var(--color-muted);
+    font-size: 1rem;
+    max-width: 300px;
+}
+.footer-links h4,
+.footer-contact h4 {
+    font-size: 1rem;
+    color: var(--color-primary);
+    margin-bottom: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
