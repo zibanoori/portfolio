@@ -143,5 +143,12 @@ img {
   letter-spacing: 1.5px;
   margin-bottom: 50px;
 }
+.content-block h2 {
+    font-size: var(--heading-size);
+    color: var(--color-primary);
+    font-weight: 400;
+    margin-bottom: 22px;
+    font-family: var(--font-script);
+}
 
 
