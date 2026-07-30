@@ -227,3 +227,7 @@ img {
     align-items: center;
     gap: 10px;
 }
+.footer-contact i {
+    color: var(--color-primary);
+    width: 16px;
+}
