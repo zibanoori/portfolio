@@ -219,4 +219,11 @@ img {
     color: var(--color-primary);
     padding-left: 5px;
 }
-
+.footer-contact p {
+    color: var(--color-muted);
+    font-size: 1rem;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
