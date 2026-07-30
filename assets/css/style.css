@@ -244,3 +244,7 @@ img {
   color: var(--color-muted);
   font-size: 0.8rem;
 }
+.footer-social {
+  display: flex;
+  gap: 15px;
+}
