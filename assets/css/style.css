@@ -213,6 +213,10 @@ img {
 }
 .footer-links a {
   color: var(--color-muted);
-  font-size: 0.9rem;
+  font-size: 1rem;
+}
+.footer-links a:hover {
+    color: var(--color-primary);
+    padding-left: 5px;
 }
 
