@@ -248,3 +248,7 @@ img {
   display: flex;
   gap: 15px;
 }
+.footer-social a {
+  color: var(--color-muted);
+  font-size: 1rem;
+}
