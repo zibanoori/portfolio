@@ -240,3 +240,7 @@ img {
     justify-content: center;
     align-items: center;
 }
+.footer-bottom p {
+  color: var(--color-muted);
+  font-size: 0.8rem;
+}
