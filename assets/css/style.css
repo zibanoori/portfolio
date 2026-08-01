@@ -25,6 +25,7 @@ body {
   color: var(--color-secondary);
   background-color: var(--color-white);
   line-height: 1.5;
+  padding-top: 90px;
 }
 a {
   text-decoration: none;
@@ -38,6 +39,11 @@ a {
   padding: 25px 5px;
   background-color: var(--color-white);
   border-bottom: 1px solid #f4e9e9;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
 }
 .logo {
   font-family: var(--font-script);
@@ -102,6 +108,7 @@ a {
   display: flex;
   align-items: center;
   background: linear-gradient(135deg, #fdfbf7 0%, #f2e6e9 50%, #dbcdcd 100%);
+  padding: 170px 5% 80px;
 }
 .container {
   max-width: 1200px;
