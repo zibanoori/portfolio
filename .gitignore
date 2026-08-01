@@ -1,0 +1,11 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Editor Configs
+.vscode/
+.idea/
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
