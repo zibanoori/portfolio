@@ -1,0 +1,7 @@
+# Security Policy
+
+## Reporting a Vulnerability
+
+If you discover a security vulnerability within this project, please send an email to noorizibaa@gmail.com. All security vulnerabilities will be promptly addressed.
+
+Please do not open public issues for security-related matters.
