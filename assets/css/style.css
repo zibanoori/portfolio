@@ -267,3 +267,55 @@ img {
   color: var(--color-primary);
   padding-left: 3px;
 }
+@media (max-width: 900px) {
+  .container {
+    flex-direction: column;
+    text-align: center;
+    gap: 50px;
+  }
+
+  .image-box img {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .content-block p {
+    margin: 0 auto 35px auto;
+  }
+
+  .site-header {
+    flex-direction: column;
+    gap: 20px;
+     width: 100%;
+  }
+
+  .navbar {
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  :root {
+    --title-script-size: 3.5rem;
+  }
+
+  .footer-container {
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 30px;
+  }
+
+  .footer-brand p {
+    margin: 0 auto;
+  }
+
+  .footer-contact p {
+    justify-content: center;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+  }
+}
