@@ -107,18 +107,18 @@ a {
 }
 .main-section {
   padding: 80px 5%;
-  min-height: 80vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   background: linear-gradient(135deg, #fdfbf7 0%, #f2e6e9 50%, #dbcdcd 100%);
-  padding: 170px 5% 80px;
+  padding: 40px 5% 80px;
 }
 .container {
   max-width: 1200px;
   margin: 0 auto;
   display: flex;
   align-items: center;
-  gap: 80px;
+  gap: 50px;
   width: 100%;
 }
 .image-box img {
