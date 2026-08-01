@@ -127,11 +127,11 @@ a {
   height: auto;
   border: 12px solid var(--color-white);
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.06);
-  border-radius: 50%;
+  border-radius: 15px;
   display: block;
 }
 img {
-  border-radius: 55px;
+  border-radius: 15px;
   border: 1px solid gray;
 }
 
