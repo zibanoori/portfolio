@@ -1,4 +1,4 @@
-# Ziba Noori - Personal Portfolio Website
+# A clean and simple portfolio template built with pure HTML and CSS
 
 Welcome to my personal portfolio website! This project showcases my journey as a Computer Science student specializing in Backend Python development. The site is designed to be clean, readable, and reflective of my professional identity while maintaining a touch of personal style.
 
